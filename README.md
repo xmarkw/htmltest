@@ -1,0 +1,2 @@
+# htmltest
+Test static pages
